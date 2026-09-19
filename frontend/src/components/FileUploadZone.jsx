@@ -44,7 +44,7 @@ export const FileUploadZone = ({ onFileSelect, onError }) => {
         <div className="upload-icon">📄</div>
         <h3>Upload CSV File</h3>
         <p className="subtitle">
-          Drag & drop your users.csv file here, or click to browse
+          Drag & drop your CSV file here, or click to browse
         </p>
         <input
           id="csvFileInput"

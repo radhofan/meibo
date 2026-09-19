@@ -1,6 +1,6 @@
-# User Import Tool
+# Meibo - User Roster Import Tool
 
-Importing large sets of users from a spreadsheet into a system is a common administrative task. This project demonstrates a complete CSV user import workflow with automatic validation and formatting, available through both a web interface and a command-line tool.
+Importing large sets of users from a spreadsheet into a system is a common administrative task. Meibo demonstrates a complete CSV user import workflow with automatic validation and formatting, available through both a web interface and a command-line tool.
 
 Please read [About](#-about) section for architecture decisions.
 

@@ -18,3 +18,8 @@ Thumbs.db
 
 # Logs
 *.log
+
+# Assignment and confidential files
+*.pdf
+*.docx
+users.csv

@@ -2,9 +2,9 @@ import React from "react";
 
 export const Header = () => (
   <header>
-    <h1>User Import Application</h1>
+    <h1>Meibo</h1>
     <p className="subtitle">
-      Import CSV user data with validation and preview
+      User roster CSV import with validation and preview
     </p>
   </header>
 );
